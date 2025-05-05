@@ -1,2 +1,2 @@
 # Notas
-Este es un repositorio de pruebas y purezas
+Este es EL PUTAs
